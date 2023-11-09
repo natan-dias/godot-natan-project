@@ -1,0 +1,27 @@
+# Changelog
+
+Todas as mudanças serão colocadas neste arquivo.
+
+Formato baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+Projeto aderente a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [0.0.1] 09/11/2023
+
+### Added
+
+- Scripts iniciais da Fase 01
+- Scripts iniciais do personagem
+- Movimentação e Pulo
+- Refinamento do ataque
+
+### Fixed
+
+### Changed
+
+### Removed
+
+
+
+

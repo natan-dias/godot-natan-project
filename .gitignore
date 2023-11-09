@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+OLD_config.yaml
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+beautiful-jekyll-theme-*.gem
