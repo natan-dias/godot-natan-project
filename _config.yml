@@ -60,11 +60,11 @@ social-network-links:
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre: "aboutme"
   Cool Stuff:
     - We Became what we Behold - HTML Game: https://github.com/natan-dias/wbwwb
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://natan-dias.github.io"
+  Home do Autor: "https://natan-dias.github.io"
 
 ###########################
 # --- General options --- #
@@ -87,7 +87,7 @@ post_search: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "devops,dev,IT,technology"
+keywords: "development,dev,indie,godot,IT,technology"
 
 ######################################
 # --- Colours / background image --- #
