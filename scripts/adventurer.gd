@@ -181,6 +181,7 @@ func attacking():
 
 func stop_attacking():
 	$"control-timer".start(0.7)
+	
 #--- Função para exibir toda a animação de ataque ---#
 
 func morrer():
@@ -248,4 +249,4 @@ func _on_attack_released():
 	stop_attacking()
 	
 func _on_controltimer_timeout():
-	attack = false # Replace with function body.
+	attack = false
